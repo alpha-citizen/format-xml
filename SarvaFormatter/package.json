@@ -1,0 +1,20 @@
+{
+  "name": "sarvaformatter",
+  "version": "1.0.0",
+  "description": "Formats fuzzy arbitery xml repalces &gt; and &lt;.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "XML",
+    "Format",
+    "Formatter"
+  ],
+  "author": "alpha-citizen",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "xml-formatter": "^2.6.1"
+  }
+}
